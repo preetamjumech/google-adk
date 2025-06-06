@@ -1,9 +1,10 @@
-# `python -m venv adkproject` , `adkproject\Scripts\activate`
+### `python -m venv adkproject` , `adkproject\Scripts\activate`
 
-# pip install google-adk yfinance
+### pip install google-adk yfinance
 
-# adk run app
-# adk web
+### adk create app
+### adk run app
+### adk web
 
 
-# the agent name should be root_agent
+## the agent name should be root_agent
